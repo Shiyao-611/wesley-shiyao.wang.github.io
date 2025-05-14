@@ -115,8 +115,13 @@ h1:before, .anchor:before {
   }
   
 .profile_box {
-    transform: scale(1.2); /* 放大整体比例，1.2 = 120% */
-    transform-origin: top left; /* 控制放大的锚点，可以改成 center 或其他 */
-  }
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    align-items: center;
+    transform: scale(1.8); /* 放大整体内容 */
+    transform-origin: top left; /* 放大时从左上角开始 */
+}
+
   
   
