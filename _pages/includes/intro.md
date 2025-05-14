@@ -2,7 +2,7 @@
 ## Introduction
 I graduated from [Elite Program in Economics](http://econ.ruc.edu.cn/zsyx/zyjjxrcdyl/jjxbjxspyjd/808bffee72094ddd83b6c11c605ccc47.htm), Renmin University of China (中国人民大学) with bachelor's degrees in Economics and Mathematics. I am now an MS student at the Department of Computer Science jointly with Harris School of Public Policy, the University of Chicago(芝加哥大学). I collaborate with [Xuechunzi Bai (白雪纯子)](https://www.xuechunzibai.com/) and [Joshua Jackson](https://www.joshuaconradjackson.com/). 
 
-## Research Interests
+## 💡 Research Interests
 
 My research interests lie at the intersection of **behavioral science** and **computational methods**. Currently, I focus on the following three areas:
 
@@ -15,4 +15,7 @@ I use **computational methods**, particularly **natural language processing (NLP
 ### 3. Human–AI Interaction  
 I explore how emerging **AI technologies** reshape human behavior, cognition, and social norms. This is my future research plan.
 
+## 📚 Ongoing Research Papers
+- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review**
 
+- 100 years of Ethnic Stereotype Change in Word Embeddings, *with Joshua Jackson and Xuechunzi Bai* 

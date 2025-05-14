@@ -23,7 +23,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Wesley(Shiyao) Wang (王诗尧)"
   avatar           : "images/sy1.png"
-  bio              : "TikTok"
+  bio              : #"TikTok"
   location         : "Chicago"
   employer         :
   pubmed           : 
