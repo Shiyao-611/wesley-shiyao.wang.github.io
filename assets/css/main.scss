@@ -114,14 +114,14 @@ h1:before, .anchor:before {
     border-radius: 0 !important;
   }
   
-.profile_box {
-    display: flex;
-    justify-content: flex-start;
-    align-content: flex-start;
-    align-items: center;
-    transform: scale(1.2); /* 放大整体内容 */
-    transform-origin: top left; /* 放大时从左上角开始 */
-}
+// .profile_box {
+//     display: flex;
+//     justify-content: flex-start;
+//     align-content: flex-start;
+//     align-items: center;
+//     transform: scale(1.2); /* 放大整体内容 */
+//     transform-origin: top left; /* 放大时从左上角开始 */
+// }
 
 // .profile_box {
 //     display: flex;
