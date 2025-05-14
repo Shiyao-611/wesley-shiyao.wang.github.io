@@ -114,13 +114,27 @@ h1:before, .anchor:before {
     border-radius: 0 !important;
   }
   
+// .profile_box {
+//     display: flex;
+//     justify-content: flex-start;
+//     align-content: flex-start;
+//     align-items: center;
+//     transform: scale(1.8); /* 放大整体内容 */
+//     transform-origin: top left; /* 放大时从左上角开始 */
+// }
+
 .profile_box {
     display: flex;
     justify-content: flex-start;
     align-content: flex-start;
     align-items: center;
-    transform: scale(1.8); /* 放大整体内容 */
-    transform-origin: top left; /* 放大时从左上角开始 */
+
+    width: 600px;   /* 自定义宽度 */
+    height: 600px;  /* 自定义高度 */
+
+    border: 1px solid #ccc; /* 可选：加个边框方便观察大小 */
+    padding: 1em;           /* 可选：内部留白 */
+    box-sizing: border-box; /* 防止padding撑大box */
 }
 
   
