@@ -109,10 +109,14 @@ h1:before, .anchor:before {
 }
 
 .author__avatar {
-    width: 400px !important;
+    width: 600px !important;
     height: 400px !important;
     border-radius: 0 !important;
   }
   
+.profile_box {
+    transform: scale(1.2); /* 放大整体比例，1.2 = 120% */
+    transform-origin: top left; /* 控制放大的锚点，可以改成 center 或其他 */
+  }
   
   
