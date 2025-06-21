@@ -18,7 +18,7 @@ I use **computational methods**, particularly **natural language processing (NLP
 Together, these two lines of research form my broader agenda: exploring the origins of social biases and understanding how policy interventions can causally alleviate them.
 
 ## Selected Work in Progress 
-- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review** at Journal of Environmental Economics and Management (IF 5.9) 
+- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review** at *Journal of Environmental Economics and Management* (IF 5.9) 
 
 - Gender Differences in Positions: Evidence from Civil Servants Recruitment , *with Hanyu Zhu and Junjian Yi*, **Forthcoming**
 
