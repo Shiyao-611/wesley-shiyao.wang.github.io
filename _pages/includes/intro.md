@@ -7,8 +7,7 @@ I graduated from [Elite Program in Economics](http://econ.ruc.edu.cn/zsyx/zyjjxr
 
 My research interests lie at the intersection of **behavioral science** and **computational methods**. Currently, I focus on the following 2 lines:
 
-- Causal inference
-
+- Causal inference and Human Behaviors
 I study how large-scale **exogenous shocks—such as natural disasters, childhood adverse experiences, and social policies**—causally shape human behaviors and decision-making. My research leverages causal inference methods to uncover how these shocks contribute to social inequalities and biases.
 
 - Computational Methods and Social Perception  
