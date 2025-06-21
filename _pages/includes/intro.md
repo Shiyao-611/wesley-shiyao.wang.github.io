@@ -2,7 +2,7 @@
 ## Introduction
 Welcome! I graduated from [Elite Program in Economics](http://econ.ruc.edu.cn/zsyx/zyjjxrcdyl/jjxbjxspyjd/808bffee72094ddd83b6c11c605ccc47.htm), Renmin University of China (中国人民大学) with bachelor's degrees in Economics & Mathematics. I am now an M.S. student at the Department of Computer Science jointly with Harris School of Public Policy, the University of Chicago. 
 
-At Uchicago, I collaborate with [Xuechunzi Bai (白雪纯子)](https://psychology.uchicago.edu/directory/Xuechunzi-Bai) and [Joshua Jackson](https://www.joshuaconradjackson.com/). Prior to UChicago, I collaborate with  [Junjian Yi (易君健)](https://sites.google.com/view/junjianyi) at the Peking University National School of Development. 
+At Uchicago, I am advised by [Xuechunzi Bai (白雪纯子)](https://psychology.uchicago.edu/directory/Xuechunzi-Bai) and [Joshua Jackson](https://www.joshuaconradjackson.com/). Prior to UChicago, I work with  [Junjian Yi (易君健)](https://sites.google.com/view/junjianyi) at the Peking University National School of Development. 
 
 
 ## Research Interests
