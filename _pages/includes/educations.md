@@ -5,3 +5,5 @@
 - *2024.09 - 2026.06*, M.S. in Computer Science & Public Policy, the University of Chicago, IL
 - *2020.09 - 2024.06*, B.S. in Mathematics & B.A. in Economics, Renmin Univeristy of China, Beijing.
 - *2017.09 - 2020.06*, Wuhan No.1 Middle School, Wuhan.
+
+https://www.dropbox.com/scl/fi/jzewzpvy5v7dsmeg1ceyo/Wang-Shiyao-CV-202506.pdf?rlkey=zymyx069ugnu3ep4mvwqeybc4&st=n4t0v06d&dl=0
