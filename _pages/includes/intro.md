@@ -7,18 +7,17 @@ I graduated from [Elite Program in Economics](http://econ.ruc.edu.cn/zsyx/zyjjxr
 
 My research interests lie at the intersection of **behavioral science** and **computational methods**. Currently, I focus on the following 2 lines:
 
-- Natural and Societal Shocks to Human Behaviors
-I study how large-scale **exogenous shocks** (i.e. natural disasters, social policy) affect human behavior and decision-making. This line of research aims to understand the behavioral responses to unanticipated shocks.
+- Causal inference
 
-- Computational Methods to Social Cognition  
-I use **computational methods**, particularly **natural language processing (NLP)**, to examine how **social perceptions** and **stereotypes** evolve over time. This line of work investigates what drives these shifts in thought and behavior.
+I study how large-scale **exogenous shocks—such as natural disasters, childhood adverse experiences, and social policies**—causally shape human behaviors and decision-making. My research leverages causal inference methods to uncover how these shocks contribute to social inequalities and biases.
 
-- Human–AI Interaction  
-I further plan to explore how emerging **AI technologies** reshape human behavior, cognition, and social norms. 
+- Computational Methods and Social Perception  
+I use **computational methods**, particularly **natural language processing (NLP)**, to examine how **social perceptions** and **stereotypes** evolve over time. This line of work seeks to uncover the origins that shape and sustain changes in human beliefs.
+
 
 
 ## 📚 Ongoing Research Papers
-- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review**
+- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review** at Journal of Environmental Economics and Management (IF 5.9) 
 
 - Gender Differences in Positions: Evidence from Civil Servants Recruitment , *with Hanyu Zhu and Junjian Yi*, **Forthcoming**
 
