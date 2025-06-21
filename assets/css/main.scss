@@ -108,8 +108,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.author__avatar {
-    width: 200px !important;
+// .author__avatar {
+//     width: 200px !important;
+//     height: 400px !important;
+//     border-radius: 0 !important;
+//   }
+
+  .author__avatar {
+    width: auto;
     height: 400px !important;
     border-radius: 0 !important;
   }
