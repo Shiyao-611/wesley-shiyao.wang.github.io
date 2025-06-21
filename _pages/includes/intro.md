@@ -2,7 +2,7 @@
 ## Introduction
 Welcome! I graduated from [Elite Program in Economics](http://econ.ruc.edu.cn/zsyx/zyjjxrcdyl/jjxbjxspyjd/808bffee72094ddd83b6c11c605ccc47.htm), Renmin University of China (中国人民大学) with bachelor's degrees in Economics & Mathematics. I am now an M.S. student at the Department of Computer Science jointly with Harris School of Public Policy, the University of Chicago. 
 
-At Uchicago, I am advised by [Xuechunzi Bai (白雪纯子)](https://psychology.uchicago.edu/directory/Xuechunzi-Bai) and [Joshua Jackson](https://www.joshuaconradjackson.com/). Prior to UChicago, I work with  [Junjian Yi (易君健)](https://sites.google.com/view/junjianyi) at the Peking University National School of Development. 
+At Uchicago, I am advised by [Xuechunzi Bai (白雪纯子)](https://psychology.uchicago.edu/directory/Xuechunzi-Bai). Prior to UChicago, I am advised by  [Junjian Yi (易君健)](https://sites.google.com/view/junjianyi) at the Peking University National School of Development. 
 
 
 ## Research Interests
@@ -22,4 +22,4 @@ Together, these two lines of research form my broader agenda: exploring the orig
 
 - Gender Differences in Positions: Evidence from Civil Servants Recruitment , *with Hanyu Zhu and Junjian Yi*, **Forthcoming**
 
-- 100 years of Deep v.s. Shallow Stereotype Change in Word Embeddings, *with Joshua Jackson and Xuechunzi Bai*, **Forthcoming**
+- Research on Computational Analysis of Ethnic Stereotypes Using Word Embeddings, *with Joshua Jackson and Xuechunzi Bai*, **Forthcoming**
