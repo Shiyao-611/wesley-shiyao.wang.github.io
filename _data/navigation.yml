@@ -6,11 +6,11 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
-  - title: "Research"
-    url: "/wesley-shiyao.wang.github.io/#research"
+  # - title: "Research"
+  #   url: "/wesley-shiyao.wang.github.io/#research"
 
-  - title: "Educations"
-    url: "/wesley-shiyao.wang.github.io/#educations"
+  # - title: "Educations"
+  #   url: "/wesley-shiyao.wang.github.io/#educations"
 
   - title: "CV"
     url: "https://www.dropbox.com/scl/fi/jzewzpvy5v7dsmeg1ceyo/Wang-Shiyao-CV-202506.pdf?rlkey=zymyx069ugnu3ep4mvwqeybc4&st=n4t0v06d&dl=0"

@@ -13,11 +13,3 @@ I study how large-scale **exogenous shocks—such as natural disasters, childhoo
 - Computational Methods and Social Perception  
 I use **computational methods**, particularly **natural language processing (NLP)**, to examine how **social perceptions** and **stereotypes** evolve over time. This line of work seeks to uncover the origins that shape and sustain changes in human beliefs.
 
-
-
-## Ongoing Research Papers
-- Early life Diaster Exposure and Long-term Health Risk Effect: A Life-span Empirical Evidence from China *with Xinzhen Zhang et al*, **Under Review** at Journal of Environmental Economics and Management (IF 5.9) 
-
-- Gender Differences in Positions: Evidence from Civil Servants Recruitment , *with Hanyu Zhu and Junjian Yi*, **Forthcoming**
-
-- 100 years of Deep v.s. Shallow Stereotype Change in Word Embeddings, *with Joshua Jackson and Xuechunzi Bai*, **Forthcoming**
