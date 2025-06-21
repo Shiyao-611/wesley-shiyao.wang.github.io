@@ -6,6 +6,8 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
+  - title: "Research"
+    url: "/wesley-shiyao.wang.github.io/#research"
 
   - title: "Educations"
     url: "/wesley-shiyao.wang.github.io/#educations"
